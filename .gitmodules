@@ -1,5 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/robitalec/universe
 	shallow = true
 	branch = HEAD
+[submodule "spatsoc"]
+	path = spatsoc
+	url = https://github.com/ropensci/spatsoc
+	shallow = true
+	registered = true
+[submodule "ScaleInMultilayerNetworks"]
+	path = ScaleInMultilayerNetworks
+	url = https://github.com/robitalec/ScaleInMultilayerNetworks
+	shallow = true
+	registered = true
+[submodule "irg"]
+	path = irg
+	url = https://github.com/robitalec/irg
+	shallow = true
+	registered = true
+[submodule "hwig"]
+	path = hwig
+	url = https://github.com/robitalec/hwig
+	shallow = true
+	registered = true
+[submodule "wildcam"]
+	path = wildcam
+	url = https://github.com/robitalec/wildcam
+	shallow = true
+	registered = true
+[submodule "SocCaribou"]
+	path = SocCaribou
+	url = https://github.com/wildlifeevoeco/SocCaribou/
+	shallow = true
+	registered = true

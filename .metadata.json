@@ -1,0 +1,22 @@
+[
+  {
+    "package": "spatsoc",
+    "oncran": true
+  },
+  {
+    "package": "ScaleInMultilayerNetworks"
+  },
+  {
+    "package": "irg",
+    "oncran": false
+  },
+  {
+    "package": "hwig"
+  },
+  {
+    "package": "wildcam"
+  },
+  {
+    "package": "SocCaribou"
+  }
+]
