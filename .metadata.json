@@ -18,5 +18,8 @@
   },
   {
     "package": "SocCaribou"
+  },
+  {
+    "package": "distanceto"
   }
 ]

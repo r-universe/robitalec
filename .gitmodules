@@ -33,3 +33,8 @@
 	url = https://github.com/wildlifeevoeco/SocCaribou/
 	shallow = true
 	registered = true
+[submodule "distanceto"]
+	path = distanceto
+	url = https://github.com/robitalec/distance-to/
+	shallow = true
+	registered = true
