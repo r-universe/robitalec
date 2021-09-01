@@ -15,7 +15,7 @@
 	registered = true
 [submodule "irg"]
 	path = irg
-	url = https://gitlab.com/robit.a/irg
+	url = https://github.com/robitalec/irg
 	shallow = true
 	registered = true
 [submodule "hwig"]
@@ -36,5 +36,10 @@
 [submodule "distanceto"]
 	path = distanceto
 	url = https://github.com/robitalec/distance-to/
+	shallow = true
+	registered = true
+[submodule "preparelocs"]
+	path = preparelocs
+	url = https://github.com/robitalec/prepare-locs/
 	shallow = true
 	registered = true
