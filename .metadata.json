@@ -11,7 +11,8 @@
     "oncran": false
   },
   {
-    "package": "hwig"
+    "package": "hwig",
+    "oncran": false
   },
   {
     "package": "wildcam"
