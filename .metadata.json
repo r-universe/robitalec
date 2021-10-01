@@ -12,7 +12,7 @@
   },
   {
     "package": "hwig",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "wildcam"
