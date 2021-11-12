@@ -22,7 +22,7 @@
   },
   {
     "package": "distanceto",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "preparelocs"
