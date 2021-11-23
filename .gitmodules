@@ -15,7 +15,7 @@
 	registered = true
 [submodule "irg"]
 	path = irg
-	url = https://gitlab.com/robit.a/irg
+	url = https://github.com/robitalec/irg
 	shallow = true
 	registered = true
 [submodule "hwig"]
