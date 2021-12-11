@@ -8,7 +8,7 @@
   },
   {
     "package": "irg",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "hwig",
