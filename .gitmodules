@@ -26,8 +26,8 @@
 [submodule "preparelocs"]
 	path = preparelocs
 	url = https://github.com/robitalec/prepare-locs
-[submodule "2023.CSEE.reproducible.workflows.workshop"]
-	path = 2023.CSEE.reproducible.workflows.workshop
+[submodule "CSEE.reproducible.workflows.workshop"]
+	path = CSEE.reproducible.workflows.workshop
 	url = https://github.com/robitalec/2023-CSEE-reproducible-workflows-workshop
 [submodule "targets.rgee.extract"]
 	path = targets.rgee.extract
