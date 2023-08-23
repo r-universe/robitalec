@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/robitalec/robitalec.r-universe.dev
 	branch = HEAD
-[submodule "spatsoc"]
-	path = spatsoc
-	url = https://github.com/ropensci/spatsoc
-[submodule "ScaleInMultilayerNetworks"]
-	path = ScaleInMultilayerNetworks
-	url = https://github.com/robitalec/ScaleInMultilayerNetworks
-[submodule "irg"]
-	path = irg
-	url = https://github.com/robitalec/irg
-[submodule "hwig"]
-	path = hwig
-	url = https://github.com/robitalec/hwig
-[submodule "camtrapmonitoring"]
-	path = camtrapmonitoring
-	url = https://github.com/robitalec/camtrapmonitoring
-[submodule "SocCaribou"]
-	path = SocCaribou
-	url = https://github.com/wildlifeevoeco/SocCaribou
-[submodule "distanceto"]
-	path = distanceto
-	url = https://github.com/robitalec/distance-to
-[submodule "preparelocs"]
-	path = preparelocs
-	url = https://github.com/robitalec/prepare-locs
 [submodule "CSEE.reproducible.workflows.workshop"]
 	path = CSEE.reproducible.workflows.workshop
 	url = https://github.com/robitalec/2023-CSEE-reproducible-workflows-workshop
+[submodule "ScaleInMultilayerNetworks"]
+	path = ScaleInMultilayerNetworks
+	url = https://github.com/robitalec/ScaleInMultilayerNetworks
+[submodule "SocCaribou"]
+	path = SocCaribou
+	url = https://github.com/wildlifeevoeco/SocCaribou
+[submodule "camtrapmonitoring"]
+	path = camtrapmonitoring
+	url = https://github.com/robitalec/camtrapmonitoring
+[submodule "distanceto"]
+	path = distanceto
+	url = https://github.com/robitalec/distance-to
+[submodule "hwig"]
+	path = hwig
+	url = https://github.com/robitalec/hwig
+[submodule "irg"]
+	path = irg
+	url = https://github.com/robitalec/irg
+[submodule "preparelocs"]
+	path = preparelocs
+	url = https://github.com/robitalec/prepare-locs
+[submodule "spatsoc"]
+	path = spatsoc
+	url = https://github.com/ropensci/spatsoc
 [submodule "targets.rgee.extract"]
 	path = targets.rgee.extract
 	url = https://github.com/robitalec/targets-rgee-extract
