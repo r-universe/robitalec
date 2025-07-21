@@ -29,8 +29,3 @@
 [submodule "spatsoc"]
 	path = spatsoc
 	url = https://github.com/ropensci/spatsoc
-[submodule "units"]
-	path = units
-	url = https://github.com/r-quantities/units
-	branch = 8dae070bc7e15a1a11f21c67ac3757e73bf6735c
-	registered = false
