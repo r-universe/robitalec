@@ -23,6 +23,10 @@
 [submodule "irg"]
 	path = irg
 	url = https://github.com/robitalec/irg
+[submodule "lwgeom"]
+	path = lwgeom
+	url = https://github.com/r-spatial/lwgeom
+	registered = false
 [submodule "preparelocs"]
 	path = preparelocs
 	url = https://github.com/robitalec/prepare-locs

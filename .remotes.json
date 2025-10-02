@@ -1,0 +1,8 @@
+[
+  {
+    "package": "lwgeom",
+    "url": "https://github.com/r-spatial/lwgeom",
+    "via": ["spatsoc"],
+    "from": "spatsoc"
+  }
+]
